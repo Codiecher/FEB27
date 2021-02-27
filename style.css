@@ -1,5 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Lora');
 
+.container{
+  border: 4px solid #cbc4cc;
+  background-color: #fef6ff;
+  margin-left: 40%;
+  margin-right: 40%;
+    border-radius: 1em 1em 1em 1em;
+}
+
 button{
   border: 4px solid #cbc4cc;
   background-color: #fef6ff;
