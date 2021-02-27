@@ -2,6 +2,5 @@ button{
   border: 1px solid gray;
   background-color: lightgray;
   position: absolute;
-  margin-left: 40%;
-  height: 50px;
+  height: 100px;
   }
