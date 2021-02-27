@@ -15,7 +15,7 @@ function getWeather(){
      "?lat=" + latitude +
      "&lon=" + longitude +
      "&appid=" + apiKey;
-     document.getElementByClass('container').style.display = "block";
+     document.getElementById('container').style.display = "block";
     fetch(openWeatherMap)
     .then(response => response.json())
     .then(data => {

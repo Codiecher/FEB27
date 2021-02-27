@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Lora');
 
-.container{
+#container{
   border: 4px solid #cbc4cc;
   background-color: #fef6ff;
   margin-left: 40%;
