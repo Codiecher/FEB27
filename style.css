@@ -6,6 +6,7 @@
   margin-left: 40%;
   margin-right: 40%;
   border-radius: 1em 1em 1em 1em;
+  display: none;
 }
 
 button{
