@@ -10,4 +10,5 @@ button{
   width: 200px;
   border-radius: 1em 1em 1em 1em;
   font-family: 'Quicksand, sans';
+  -moz-focus-inner { border: 0; 
   }
