@@ -10,5 +10,7 @@ button{
   width: 200px;
   border-radius: 1em 1em 1em 1em;
   font-family: 'Lora, sans';
+  font-style: normal;
+  font-size: 120%;
   outline: none;
   }
