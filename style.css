@@ -1,6 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+
 button{
-  border: 1px solid #20332d;
-  background-color: #cbc4cc;
+  border: 4px solid #cbc4cc;
+  background-color: #fef6ff;
   position: absolute;
-  height: 100px;
+  height: 50px;
+  margin-left: 40%;
+  margin-right: 40%;
+  width: 200px;
+  border-radius: 1em 1em 1em 1em;
+  font-family: 'Quicksand, sans';
   }
