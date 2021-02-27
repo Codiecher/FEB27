@@ -5,7 +5,7 @@ let temperatureElement = document.getElementById("temperature");
 let statusElement = document.getElementById("status");
 let locationElement = document.getElementById("location");
 
-
+document.getElementByClass('container').style.display = "none";
 
 function getWeather(){
 
