@@ -1,6 +1,6 @@
 let api = "https://api.openweathermap.org/data/2.5/weather";
 let apiKey = "f888d8023f96e32ebff86dfc7eee1df2";
-
+let yourmum = "gay";
 let temperatureElement = document.getElementById("temperature");
 let statusElement = document.getElementById("status");
 let locationElement = document.getElementById("location");
