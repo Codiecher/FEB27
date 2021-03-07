@@ -15,8 +15,8 @@ button{
   background-color: #fef6ff;
   position: absolute;
   height: 50px;
-  margin-left: 40%;
-  margin-right: 40%;
+  align-self: center;
+  justify-content: center;
   margin-top: 50px;
   width: 200px;
   border-radius: 1em 1em 1em 1em;
